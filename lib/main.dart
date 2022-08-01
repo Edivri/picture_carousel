@@ -12,11 +12,11 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   final _imagePaths = [
-    'images/day01.png',
-    'images/day02.png',
-    'images/day03.png',
-    'images/day04.png',
-    'images/day05.png',
+    'images/model1.jpg',
+    'images/model2.jpg',
+    'images/model3.jpg',
+    'images/model4.jpg',
+    'images/model5.jpg',
   ];
 
   @override
